@@ -20,10 +20,6 @@
 
 ## You can use this project as a template to build out your projects!
 
-### For any queries :
-- Email : gtiwari333@gmail.com
-- Blog : http://ganeshtiwaridotcomdotnp.blogspot.com/ 
-
 
 ##### CopyLeft:
 - Please feel free to use/modify the code! 
